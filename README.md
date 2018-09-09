@@ -46,3 +46,5 @@ sudo npm install -g ethereumjs-testrpc
 cd Project
 
 sudo npm install
+
+sudo npm install -g @angular/cli@latest
