@@ -48,3 +48,11 @@ cd Project
 sudo npm install
 
 sudo npm install -g @angular/cli@latest
+
+Part 2
+Open a new terminal and start IPFS daemon with ipfs daemon
+Start testrpc in new terminal with testrpc -l 47000000000000.
+From inside the project directory run truffle compile to compile your contracts
+And truffle migrate to deploy those contracts to the network
+Now finally, start the project with npm start. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+Make sure there are no errors in browser console
