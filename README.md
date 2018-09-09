@@ -51,6 +51,7 @@ sudo npm install -g @angular/cli@latest
 
 Part 2
 sudo snap install ipfs
+
 Open a new terminal and start IPFS daemon with ipfs daemon
 Start testrpc in new terminal with testrpc -l 47000000000000.
 From inside the project directory run truffle compile to compile your contracts
