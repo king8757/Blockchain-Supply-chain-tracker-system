@@ -41,6 +41,8 @@ Installing / Getting started
 
 sudo npm install -g truffle
 
-
 sudo npm install -g ethereumjs-testrpc
 
+cd Project
+
+sudo npm install
