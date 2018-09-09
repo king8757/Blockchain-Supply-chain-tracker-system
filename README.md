@@ -35,3 +35,10 @@ Blockchain — Supply chain tracker system ระบบติดตามแ
 · สามารถพัฒนาต่อยอดให้สามารถชำระเงินผ่านระบบ ระหว่างผู้บริโภคและเกษตรกรโดยตรง
 
 · เพื่มศักยภาพในการแข่งขัน กับสินค้าที่ไม่ได้มาตราฐานและสินค้าปลอมไม่ให้เข้ามาสู่ตลาด
+
+
+Installing / Getting started
+
+sudo npm install -g truffle
+sudo npm install -g ethereumjs-testrpc
+
