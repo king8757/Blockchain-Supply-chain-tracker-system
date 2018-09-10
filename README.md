@@ -52,7 +52,9 @@ sudo npm install -g @angular/cli@latest
 Part 2
 sudo snap install ipfs
 
-Open a new terminal and start IPFS daemon with ipfs daemon
+ipfs init
+
+Open a new terminal and start IPFS ipfs initn
 Start testrpc in new terminal with testrpc -l 47000000000000.
 From inside the project directory run truffle compile to compile your contracts
 And truffle migrate to deploy those contracts to the network
